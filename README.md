@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Zain 👋
+# Zain Ul Abideen
 
 **AI/ML student building things that think, fact-check, and (mostly) don't crash.**
 
