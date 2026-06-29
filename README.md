@@ -56,7 +56,7 @@ I'm open to collaborating on interesting AI/ML projects, research, or internship
 ### 📊 Activity
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-the-npc&theme=radical&hide_border=true" alt="Zain's contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-the-npc&theme=radical&hide_border=true" alt="Zain's contribution gstreak" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-the-npc&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top languages" />
 </div>
 
