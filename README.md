@@ -64,6 +64,6 @@ I'm open to collaborating on interesting AI/ML projects, research, or internship
 
 <div align="center">
 
-📫 Reach me at **zainthenpc05@gmail.com**
+📫 Reach me at **zainthenpc06@gmail.com**
 
 </div>
