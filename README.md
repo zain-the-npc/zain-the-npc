@@ -72,14 +72,11 @@ Open to AI/ML internships, research collaborations, and interesting problems in 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zain-the-npc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-the-npc&theme=radical&hide_border=true" alt="Streak stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-the-npc&layout=compact&theme=radical&hide_border=true&hide_title=false" alt="Top languages" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-the-npc&theme=radical&hide_border=true" alt="Streak stats" />
 
 </div>
 
