@@ -6,7 +6,7 @@
 
 I build AI systems that go past the demo — agents that use tools, pipelines that catch their own mistakes, models fine-tuned from the math up instead of imported from a library.
 
-[![Email](https://img.shields.io/badge/Email-zainthenpc06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainthenpc06@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zainthenpc05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainthenpc05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zainthenpc)
 
 </div>
